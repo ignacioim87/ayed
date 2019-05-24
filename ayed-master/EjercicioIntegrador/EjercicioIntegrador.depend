@@ -1,0 +1,263 @@
+# depslib dependency file v1.0
+1338168394 source:c:\users\romansilla\desktop\varios\varios romi\clases\algoritmos y estructuras de datos\ejerciciointegrador\cola.cpp
+	"Cola.h"
+
+1339042304 c:\users\romansilla\desktop\varios\varios romi\clases\algoritmos y estructuras de datos\ejerciciointegrador\cola.h
+
+1558120432 source:c:\users\romansilla\desktop\varios\varios romi\clases\algoritmos y estructuras de datos\ejerciciointegrador\lista.cpp
+	"Lista.h"
+
+1338779364 c:\users\romansilla\desktop\varios\varios romi\clases\algoritmos y estructuras de datos\ejerciciointegrador\lista.h
+
+1338781930 source:c:\users\romansilla\desktop\varios\varios romi\clases\algoritmos y estructuras de datos\ejerciciointegrador\pila.cpp
+	"Pila.h"
+
+1338753066 c:\users\romansilla\desktop\varios\varios romi\clases\algoritmos y estructuras de datos\ejerciciointegrador\pila.h
+
+1337915898 source:c:\users\romansilla\desktop\varios\varios romi\clases\algoritmos y estructuras de datos\ejerciciointegrador\equipaje.cpp
+	"Equipaje.h"
+
+1337918566 c:\users\romansilla\desktop\varios\varios romi\clases\algoritmos y estructuras de datos\ejerciciointegrador\equipaje.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1338782150 source:c:\users\romansilla\desktop\varios\varios romi\clases\algoritmos y estructuras de datos\ejerciciointegrador\transportador.cpp
+	"Transportador.h"
+	"Pila.h"
+
+1338659738 c:\users\romansilla\desktop\varios\varios romi\clases\algoritmos y estructuras de datos\ejerciciointegrador\transportador.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Equipaje.h"
+
+1558121724 source:c:\users\romansilla\desktop\varios\varios romi\clases\algoritmos y estructuras de datos\ejerciciointegrador\vuelo.cpp
+	"Vuelo.h"
+	"Pila.h"
+
+1558121762 c:\users\romansilla\desktop\varios\varios romi\clases\algoritmos y estructuras de datos\ejerciciointegrador\vuelo.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Equipaje.h"
+
+1558120398 source:c:\users\romansilla\desktop\varios\varios romi\clases\algoritmos y estructuras de datos\ejerciciointegrador\main.cpp
+	<iostream>
+	"Lista.h"
+	"Cola.h"
+	"Pila.h"
+	"Vuelo.h"
+	"Equipaje.h"
+	"Transportador.h"
+
+1338168394 source:c:\users\aula2sca\downloads\ejerciciointegrador\ejerciciointegrador\cola.cpp
+	"Cola.h"
+
+1339042304 c:\users\aula2sca\downloads\ejerciciointegrador\ejerciciointegrador\cola.h
+
+1558132143 source:c:\users\aula2sca\downloads\ejerciciointegrador\ejerciciointegrador\lista.cpp
+	"Lista.h"
+
+1558132001 c:\users\aula2sca\downloads\ejerciciointegrador\ejerciciointegrador\lista.h
+
+1338781930 source:c:\users\aula2sca\downloads\ejerciciointegrador\ejerciciointegrador\pila.cpp
+	"Pila.h"
+
+1338753066 c:\users\aula2sca\downloads\ejerciciointegrador\ejerciciointegrador\pila.h
+
+1337915898 source:c:\users\aula2sca\downloads\ejerciciointegrador\ejerciciointegrador\equipaje.cpp
+	"Equipaje.h"
+
+1337918566 c:\users\aula2sca\downloads\ejerciciointegrador\ejerciciointegrador\equipaje.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1558131707 source:c:\users\aula2sca\downloads\ejerciciointegrador\ejerciciointegrador\main.cpp
+	<iostream>
+	"Lista.h"
+	"Cola.h"
+	"Pila.h"
+	"Vuelo.h"
+	"Equipaje.h"
+	"Transportador.h"
+
+1558121762 c:\users\aula2sca\downloads\ejerciciointegrador\ejerciciointegrador\vuelo.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Equipaje.h"
+
+1338659738 c:\users\aula2sca\downloads\ejerciciointegrador\ejerciciointegrador\transportador.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Equipaje.h"
+
+1338782150 source:c:\users\aula2sca\downloads\ejerciciointegrador\ejerciciointegrador\transportador.cpp
+	"Transportador.h"
+	"Pila.h"
+
+1558121724 source:c:\users\aula2sca\downloads\ejerciciointegrador\ejerciciointegrador\vuelo.cpp
+	"Vuelo.h"
+	"Pila.h"
+
+1338168394 source:c:\users\alejo\onedrive\escritorio\facultad\algortirmos y estrutura de datos\ejerciciointegrador\cola.cpp
+	"Cola.h"
+
+1339042304 c:\users\alejo\onedrive\escritorio\facultad\algortirmos y estrutura de datos\ejerciciointegrador\cola.h
+
+1558132143 source:c:\users\alejo\onedrive\escritorio\facultad\algortirmos y estrutura de datos\ejerciciointegrador\lista.cpp
+	"Lista.h"
+
+1558132001 c:\users\alejo\onedrive\escritorio\facultad\algortirmos y estrutura de datos\ejerciciointegrador\lista.h
+
+1338781930 source:c:\users\alejo\onedrive\escritorio\facultad\algortirmos y estrutura de datos\ejerciciointegrador\pila.cpp
+	"Pila.h"
+
+1338753066 c:\users\alejo\onedrive\escritorio\facultad\algortirmos y estrutura de datos\ejerciciointegrador\pila.h
+
+1338782150 source:c:\users\alejo\onedrive\escritorio\facultad\algortirmos y estrutura de datos\ejerciciointegrador\transportador.cpp
+	"Transportador.h"
+	"Pila.h"
+
+1338659738 c:\users\alejo\onedrive\escritorio\facultad\algortirmos y estrutura de datos\ejerciciointegrador\transportador.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Equipaje.h"
+
+1558722625 c:\users\alejo\onedrive\escritorio\facultad\algortirmos y estrutura de datos\ejerciciointegrador\equipaje.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1558121724 source:c:\users\alejo\onedrive\escritorio\facultad\algortirmos y estrutura de datos\ejerciciointegrador\vuelo.cpp
+	"Vuelo.h"
+	"Pila.h"
+
+1558121762 c:\users\alejo\onedrive\escritorio\facultad\algortirmos y estrutura de datos\ejerciciointegrador\vuelo.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Equipaje.h"
+
+1338168394 source:c:\users\ignacio\desktop\ejerciciointegrador\cola.cpp
+	"Cola.h"
+
+1339042304 c:\users\ignacio\desktop\ejerciciointegrador\cola.h
+
+1338781930 source:c:\users\ignacio\desktop\ejerciciointegrador\pila.cpp
+	"Pila.h"
+
+1338753066 c:\users\ignacio\desktop\ejerciciointegrador\pila.h
+
+1338782150 source:c:\users\ignacio\desktop\ejerciciointegrador\transportador.cpp
+	"Transportador.h"
+	"Pila.h"
+
+1338659738 c:\users\ignacio\desktop\ejerciciointegrador\transportador.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Equipaje.h"
+
+1558722626 c:\users\ignacio\desktop\ejerciciointegrador\equipaje.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1558121726 source:c:\users\ignacio\desktop\ejerciciointegrador\vuelo.cpp
+	"Vuelo.h"
+	"Pila.h"
+
+1558121764 c:\users\ignacio\desktop\ejerciciointegrador\vuelo.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Equipaje.h"
+
+1558722666 source:c:\users\ignacio\desktop\ejerciciointegrador\equipaje.cpp
+	"Equipaje.h"
+
+1558132144 source:c:\users\ignacio\desktop\ejerciciointegrador\lista.cpp
+	"Lista.h"
+
+1558132002 c:\users\ignacio\desktop\ejerciciointegrador\lista.h
+
+1558728759 source:c:\users\ignacio\desktop\ejerciciointegrador\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"Lista.h"
+	"Cola.h"
+	"Pila.h"
+	"Vuelo.h"
+	"Equipaje.h"
+	"Transportador.h"
+
+1558714968 source:c:\users\aula2sca\desktop\ayed-master\ejerciciointegrador\cola.cpp
+	"Cola.h"
+
+1558714968 c:\users\aula2sca\desktop\ayed-master\ejerciciointegrador\cola.h
+
+1558714968 source:c:\users\aula2sca\desktop\ayed-master\ejerciciointegrador\equipaje.cpp
+	"Equipaje.h"
+
+1558714968 c:\users\aula2sca\desktop\ayed-master\ejerciciointegrador\equipaje.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1558714968 source:c:\users\aula2sca\desktop\ayed-master\ejerciciointegrador\lista.cpp
+	"Lista.h"
+
+1558714968 c:\users\aula2sca\desktop\ayed-master\ejerciciointegrador\lista.h
+
+1558732729 source:c:\users\aula2sca\desktop\ayed-master\ejerciciointegrador\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"Lista.h"
+	"Cola.h"
+	"Pila.h"
+	"Vuelo.h"
+	"Equipaje.h"
+	"Transportador.h"
+
+1558714968 c:\users\aula2sca\desktop\ayed-master\ejerciciointegrador\pila.h
+
+1558714968 c:\users\aula2sca\desktop\ayed-master\ejerciciointegrador\vuelo.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Equipaje.h"
+
+1558714968 c:\users\aula2sca\desktop\ayed-master\ejerciciointegrador\transportador.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Pila.h"
+	"Equipaje.h"
+
+1558714968 source:c:\users\aula2sca\desktop\ayed-master\ejerciciointegrador\pila.cpp
+	"Pila.h"
+
+1558714968 source:c:\users\aula2sca\desktop\ayed-master\ejerciciointegrador\transportador.cpp
+	"Transportador.h"
+	"Pila.h"
+
+1558714968 source:c:\users\aula2sca\desktop\ayed-master\ejerciciointegrador\vuelo.cpp
+	"Vuelo.h"
+	"Pila.h"
+
